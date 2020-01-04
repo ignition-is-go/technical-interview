@@ -1,4 +1,5 @@
 // tslint:disable: no-console
+import hash from 'object-hash'
 import * as R from 'ramda'
 import { allCodersWhoKnowTypescript, codersSortedByNetWorth, objectWithCountsOfNumberOfDevelopersWhoKnowEachLanguage, objectWithPeopleByCity } from './challenge'
 import { Person } from './types'
@@ -18,7 +19,7 @@ describe('all coders who know typescript', () => {
 		expect(Array.isArray(result)).toBeTruthy()
 		expect(result.length).toBeGreaterThan(0)
 
-		expect(result).toMatchSnapshot()
+		expect(hash(result)).toBe('48dc693b58543d76aa86019ca4dc10fc942799e5')
 		result.forEach(p => {
 			expect(p.coder).toBeTruthy()
 			expect(p.languages).toContain('typescript')
@@ -49,7 +50,7 @@ describe('object with people by city', () => {
 	it('returns an array with the correct answer', () => {
 		const result = func()
 		expect(typeof result).toBe('object')
-		expect(result).toMatchSnapshot()
+		expect(hash(result)).toBe('1ed9bfed56f622c94c7dfaff7634350f10acbda0')
 		Reflect.ownKeys(result).forEach((city) => {
 			const cityPeople = result[city]
 			cityPeople.forEach(p => expect(p.city).toMatch(city as string))
@@ -80,7 +81,7 @@ describe('object with counts of nubmer of developers who know each language', ()
 	it('returns an array with the correct answer', () => {
 		const result = func()
 		expect(typeof result).toBe('object')
-		expect(result).toMatchSnapshot()
+		expect(hash(result)).toBe('3240b5e5339a85af074b1ac02001e67c57faa2ac')
 		Reflect.ownKeys(result).forEach((language) => {
 			const count = result[language]
 			expect(typeof count).toBe('number')
@@ -111,7 +112,7 @@ describe('codersSortedByNetWorth', () => {
 	it('returns an array with the correct answer', () => {
 		const result = func()
 		expect(Array.isArray(result)).toBeTruthy()
-		expect(result).toMatchSnapshot()
+		expect(hash(result)).toBe('cb08caa57f7abebe27afe9cd9a27306906dd9435')
 		result.forEach((coder: Person, idx) => {
 			expect(coder.coder).toBeTruthy()
 			if (idx > 0) {
