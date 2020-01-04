@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Dr. Aniyah Walker",
+    "netWorth": 14403,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Torrance Kuhic",
+    "netWorth": 90995,
+    "coder": false,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Ms. Jacques Herman",
+    "netWorth": 3859,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Kenny Hamill",
+    "netWorth": 13722,
+    "coder": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Mollie Runolfsson",
+    "netWorth": 54329,
+    "coder": false,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Makayla Anderson",
+    "netWorth": 84151,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Mrs. Murphy Kozey",
+    "netWorth": 33914,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Letitia Ortiz",
+    "netWorth": 95775,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Merlin Carter",
+    "netWorth": 33813,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Quinn Kling",
+    "netWorth": 99931,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Elwin Nienow",
+    "netWorth": 88507,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Laurel Rogahn",
+    "netWorth": 56561,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Timmothy Runolfsdottir",
+    "netWorth": 97681,
+    "coder": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Levi Padberg",
+    "netWorth": 30515,
+    "coder": false,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Claudie Gleichner",
+    "netWorth": 37056,
+    "coder": true,
+    "city": "sf",
+    "languages": [
+      "html",
+      "typescript",
+      "c#"
+    ]
+  },
+  {
+    "name": "Marcel Rolfson",
+    "netWorth": 5358,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Henriette Turner",
+    "netWorth": 94586,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Mrs. Nathanael Predovic",
+    "netWorth": 5705,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Natalie Hammes",
+    "netWorth": 56055,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Gerda Glover",
+    "netWorth": 80266,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Monica Schowalter",
+    "netWorth": 31221,
+    "coder": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Ewell Powlowski",
+    "netWorth": 27396,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Naomi Borer",
+    "netWorth": 42939,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Herminio Tremblay",
+    "netWorth": 11177,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Terrance Bartell",
+    "netWorth": 60249,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Alexane Kuvalis IV",
+    "netWorth": 73170,
+    "coder": true,
+    "city": "la",
+    "languages": [
+      "html",
+      "ruby",
+      "c#"
+    ]
+  },
+  {
+    "name": "Dr. Name Kuphal",
+    "netWorth": 15099,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Addison Breitenberg",
+    "netWorth": 35351,
+    "coder": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Priscilla Funk",
+    "netWorth": 13840,
+    "coder": true,
+    "us": true,
+    "city": "sf",
+    "languages": [
+      "ruby",
+      "css",
+      "html",
+      "python",
+      "c#"
+    ]
+  },
+  {
+    "name": "Fausto Brakus",
+    "netWorth": 24427,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Shawn Langosh",
+    "netWorth": 84461,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Florencio Bednar",
+    "netWorth": 97691,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Ollie O'Hara",
+    "netWorth": 93045,
+    "coder": true,
+    "city": "la",
+    "languages": [
+      "css",
+      "c#",
+      "ruby"
+    ]
+  },
+  {
+    "name": "Dallas Rosenbaum",
+    "netWorth": 64880,
+    "coder": false,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Oliver Zboncak Sr.",
+    "netWorth": 94222,
+    "coder": false,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Maribel Jaskolski",
+    "netWorth": 44793,
+    "coder": true,
+    "us": false,
+    "city": "sf",
+    "languages": [
+      "css",
+      "html"
+    ]
+  },
+  {
+    "name": "Russel Corkery",
+    "netWorth": 77955,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Conor Casper",
+    "netWorth": 84946,
+    "coder": true,
+    "us": true,
+    "city": "la",
+    "languages": [
+      "c#"
+    ]
+  },
+  {
+    "name": "Mr. Lee Cartwright",
+    "netWorth": 89490,
+    "coder": true,
+    "us": false,
+    "city": "la",
+    "languages": [
+      "ruby",
+      "c#",
+      "typescript"
+    ]
+  },
+  {
+    "name": "Jannie Hessel III",
+    "netWorth": 56512,
+    "coder": true,
+    "us": true,
+    "city": "sf",
+    "languages": [
+      "css",
+      "python"
+    ]
+  },
+  {
+    "name": "Tyshawn Ferry",
+    "netWorth": 42052,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Aleen Cremin",
+    "netWorth": 10082,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Dexter Streich",
+    "netWorth": 20899,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Darlene Bins",
+    "netWorth": 62826,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Kenyatta Boyer MD",
+    "netWorth": 81343,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Hilbert Boyer",
+    "netWorth": 30746,
+    "coder": false,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Miss Jalon Huels",
+    "netWorth": 96392,
+    "coder": false,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Brandy Dicki",
+    "netWorth": 98959,
+    "coder": true,
+    "city": "sf",
+    "languages": [
+      "typescript",
+      "css",
+      "html",
+      "python"
+    ]
+  },
+  {
+    "name": "Abbigail Von",
+    "netWorth": 59809,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Mollie Mitchell",
+    "netWorth": 21461,
+    "us": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Karson Bosco",
+    "netWorth": 82758,
+    "coder": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Hugh Hayes Jr.",
+    "netWorth": 17191,
+    "coder": true,
+    "city": "la",
+    "languages": [
+      "css",
+      "python"
+    ]
+  },
+  {
+    "name": "Carol Schroeder",
+    "netWorth": 7066,
+    "coder": true,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Norwood Bechtelar",
+    "netWorth": 67764,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Dr. Jacinthe Green",
+    "netWorth": 94213,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Celia Ruecker",
+    "netWorth": 21387,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Mr. Kadin Wiegand",
+    "netWorth": 65315,
+    "coder": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Ms. Alysa Weber",
+    "netWorth": 95703,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Betty Spencer",
+    "netWorth": 79495,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Aniyah Kuvalis",
+    "netWorth": 48523,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Judah Welch III",
+    "netWorth": 19164,
+    "coder": true,
+    "us": true,
+    "city": "sf",
+    "languages": [
+      "c#"
+    ]
+  },
+  {
+    "name": "Linwood Rowe",
+    "netWorth": 67842,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Miss Manley Schaefer",
+    "netWorth": 96702,
+    "coder": true,
+    "city": "sf",
+    "languages": [
+      "css",
+      "html",
+      "ruby"
+    ]
+  },
+  {
+    "name": "Coty Wintheiser",
+    "netWorth": 93871,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Alexandria Kunze",
+    "netWorth": 50671,
+    "coder": false,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Kaci Hansen",
+    "netWorth": 90622,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Devonte Lynch",
+    "netWorth": 81087,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Milton Wolff",
+    "netWorth": 24054,
+    "coder": false,
+    "us": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Kyle Hauck",
+    "netWorth": 58129,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Carter Mayert",
+    "netWorth": 49960,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Aiden Collier V",
+    "netWorth": 9132,
+    "coder": false,
+    "us": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Cassie Veum",
+    "netWorth": 74397,
+    "us": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Miss Hiram Larkin",
+    "netWorth": 85997,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Kameron Johns",
+    "netWorth": 81838,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Junius Anderson",
+    "netWorth": 85224,
+    "coder": true,
+    "us": true,
+    "city": "sf",
+    "languages": [
+      "python",
+      "c#",
+      "typescript"
+    ]
+  },
+  {
+    "name": "Gregorio Stamm",
+    "netWorth": 76238,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Chauncey Herzog DDS",
+    "netWorth": 86856,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Esperanza Kilback",
+    "netWorth": 28749,
+    "coder": true,
+    "city": "sf",
+    "languages": [
+      "typescript",
+      "css"
+    ]
+  },
+  {
+    "name": "Ruth Kunze",
+    "netWorth": 88295,
+    "coder": true,
+    "us": false,
+    "city": "la",
+    "languages": [
+      "ruby",
+      "c#"
+    ]
+  },
+  {
+    "name": "David Ratke",
+    "netWorth": 98604,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Eliezer Lindgren I",
+    "netWorth": 61728,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Brenden Hoeger",
+    "netWorth": 60219,
+    "coder": false,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Euna Marvin",
+    "netWorth": 75615,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Coralie Olson",
+    "netWorth": 44230,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Jessyca Runte III",
+    "netWorth": 41508,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Oswald Green",
+    "netWorth": 64182,
+    "coder": true,
+    "us": true,
+    "city": "sf",
+    "languages": [
+      "html",
+      "c#",
+      "typescript",
+      "css",
+      "python"
+    ]
+  },
+  {
+    "name": "Creola Hayes",
+    "netWorth": 48876,
+    "coder": true,
+    "us": false,
+    "city": "sf",
+    "languages": [
+      "c#"
+    ]
+  },
+  {
+    "name": "Noe Buckridge",
+    "netWorth": 35390,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Tony Bode",
+    "netWorth": 31694,
+    "coder": true,
+    "city": "sf",
+    "languages": [
+      "ruby"
+    ]
+  },
+  {
+    "name": "Bryana Boehm",
+    "netWorth": 33718,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Desmond Ernser",
+    "netWorth": 79608,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Eric Vandervort",
+    "netWorth": 80370,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Valerie Rutherford",
+    "netWorth": 70192,
+    "us": true,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Allison Lubowitz",
+    "netWorth": 18394,
+    "us": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Mrs. Lempi Bruen",
+    "netWorth": 94560,
+    "coder": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Maxine Franecki",
+    "netWorth": 6643,
+    "us": false,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Trisha Leuschke",
+    "netWorth": 83162,
+    "coder": true,
+    "city": "la",
+    "languages": [
+      "css",
+      "python"
+    ]
+  },
+  {
+    "name": "Mrs. Percival Kuhic",
+    "netWorth": 6492,
+    "us": false,
+    "city": "la",
+    "languages": []
+  },
+  {
+    "name": "Juvenal Crist",
+    "netWorth": 34562,
+    "us": true,
+    "city": "sf",
+    "languages": []
+  },
+  {
+    "name": "Junius Armstrong",
+    "netWorth": 71316,
+    "coder": true,
+    "city": "la",
+    "languages": [
+      "css",
+      "ruby",
+      "c#"
+    ]
+  }
+]
