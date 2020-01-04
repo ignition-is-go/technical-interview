@@ -47,7 +47,7 @@ describe('object with people by city', () => {
 		func = () => objectWithPeopleByCity(safePeople)
 	})
 
-	it('returns an array with the correct answer', () => {
+	it('returns an object with the correct answer', () => {
 		const result = func()
 		expect(typeof result).toBe('object')
 		expect(hash(result)).toBe('1ed9bfed56f622c94c7dfaff7634350f10acbda0')
@@ -78,7 +78,7 @@ describe('object with counts of nubmer of developers who know each language', ()
 		func = () => objectWithCountsOfNumberOfDevelopersWhoKnowEachLanguage(safePeople)
 	})
 
-	it('returns an array with the correct answer', () => {
+	it('returns an object with the correct answer', () => {
 		const result = func()
 		expect(typeof result).toBe('object')
 		expect(hash(result)).toBe('3240b5e5339a85af074b1ac02001e67c57faa2ac')
