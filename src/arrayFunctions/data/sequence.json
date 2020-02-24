@@ -1,0 +1,395 @@
+[
+	{
+		"id": "5e4d96d26b2e25705688a413",
+		"name": "Example Sequence",
+		"cues": [
+			{
+				"id": "5e4d96d26b2e25046588a40c",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"name": "",
+				"channels": {
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e4473f17a465b578c7cdb"
+					},
+					"5e4de7cfa582cc616022d772": {
+						"type": "STATE",
+						"stateId": "5e4ec069114d1482d42b9df3"
+					}
+				}
+			},
+			{
+				"id": "5e4d96d26b2e25710788a40e",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"name": "Tx to Ad",
+				"channels": {
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e4473f17a465b578c7cdb"
+					}
+				},
+				"hasTimeTrigger": true,
+				"timeTrigger": {
+					"hour": 1,
+					"minute": 35,
+					"second": 0
+				}
+			},
+			{
+				"id": "5e4e383cd955d356459ad1fd",
+				"name": "Ad 2 (9:19)",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"channels": {
+					"5e4ddf53885b6be5fe262629": {
+						"type": "STATE",
+						"stateId": "5e4e55b4c94b3a5e45c2df6b"
+					}
+				},
+				"hasTimeTrigger": true,
+				"timeTrigger": {
+					"hour": 9,
+					"minute": 19,
+					"second": 0
+				}
+			},
+			{
+				"id": "5e4e383ed955d356459ad201",
+				"name": "",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"channels": {
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e50a2c94b3a5e45c2df6a"
+					}
+				},
+				"hasTimeTrigger": true,
+				"timeTrigger": {
+					"hour": 1,
+					"minute": 35,
+					"second": 30
+				}
+			},
+			{
+				"id": "5e4e3840d955d356459ad203",
+				"name": "",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"channels": {
+					"5e4de7cfa582cc616022d772": {
+						"type": "STATE",
+						"stateId": "5e4e4e27c94b3a5e45c2df69"
+					},
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e50a2c94b3a5e45c2df6a"
+					}
+				},
+				"hasTimeTrigger": false
+			},
+			{
+				"id": "5e4e3841d955d356459ad205",
+				"name": "",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"channels": {
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e50a2c94b3a5e45c2df6a"
+					},
+					"5e4ddf53885b6be5fe262629": {
+						"type": "STATE",
+						"stateId": "5e4e56fcc94b3a5e45c2df6c"
+					},
+					"5e4de7cfa582cc616022d772": {
+						"type": "STATE",
+						"stateId": "5e4e576fc94b3a5e45c2df6d"
+					}
+				},
+				"hasTimeTrigger": false
+			},
+			{
+				"id": "5e4e3842d955d356459ad207",
+				"name": "",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"channels": {
+					"5e4de7cfa582cc616022d772": {
+						"type": "STATE",
+						"stateId": "5e4e4bb7fe182ee5da25aab9"
+					},
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e50a2c94b3a5e45c2df6a"
+					},
+					"5e4ddf53885b6be5fe262629": {
+						"type": "STATE",
+						"stateId": "5e4e56fcc94b3a5e45c2df6c"
+					}
+				},
+				"hasTimeTrigger": false
+			},
+			{
+				"id": "5e4e3844d955d356459ad209",
+				"name": "",
+				"block": {
+					"id": "5e4d96d26b2e2539ea88a40b",
+					"name": "A"
+				},
+				"channels": {
+					"5e4de7cfa582cc616022d772": {
+						"type": "STATE",
+						"stateId": "5e4e577dc94b3a5e45c2df6e"
+					},
+					"5e4ddf59885b6bc3f426262b": {
+						"type": "STATE",
+						"stateId": "5e4e5839c94b3a5e45c2df70"
+					}
+				},
+				"hasTimeTrigger": false
+			}
+		],
+		"connections": [
+			{
+				"id": "5e4d96d26b2e25279688a40f",
+				"priority": null,
+				"startCueId": "5e4d96d26b2e25046588a40c",
+				"endCueId": "5e4d96d26b2e25710788a40e"
+			},
+			{
+				"id": "5e4e383cd955d356459ad1fe",
+				"priority": null,
+				"startCueId": "5e4d96d26b2e25710788a40e",
+				"endCueId": "5e4e383cd955d356459ad1fd"
+			},
+			{
+				"id": "5e4e383dd955d356459ad200",
+				"priority": null,
+				"startCueId": "5e4e383cd955d356459ad1fd",
+				"endCueId": "5e4e383ed955d356459ad201"
+			},
+			{
+				"id": "5e4e3840d955d356459ad204",
+				"priority": null,
+				"startCueId": "5e4e383ed955d356459ad201",
+				"endCueId": "5e4e3840d955d356459ad203"
+			},
+			{
+				"id": "5e4e3841d955d356459ad206",
+				"priority": null,
+				"startCueId": "5e4e3840d955d356459ad203",
+				"endCueId": "5e4e3841d955d356459ad205"
+			},
+			{
+				"id": "5e4e3842d955d356459ad208",
+				"priority": null,
+				"startCueId": "5e4e3841d955d356459ad205",
+				"endCueId": "5e4e3842d955d356459ad207"
+			},
+			{
+				"id": "5e4e3844d955d356459ad20a",
+				"priority": null,
+				"startCueId": "5e4e3842d955d356459ad207",
+				"endCueId": "5e4e3844d955d356459ad209"
+			}
+		],
+		"projectId": "5e4d965c6b2e25439688a3f0",
+		"sequenceChannels": [
+			{
+				"name": "Background",
+				"id": "5e4ddf59885b6bc3f426262b",
+				"mode": "OUTPUT",
+				"systemChannelId": "5e4ddf59885b6b38a126262a",
+				"systemId": "5e4d968b6b2e25107788a401"
+			},
+			{
+				"name": "Foreground",
+				"id": "5e4ddf53885b6be5fe262629",
+				"mode": "OUTPUT",
+				"systemChannelId": "5e4ddf52885b6b0c43262628",
+				"systemId": "5e4d968b6b2e25107788a401"
+			},
+			{
+				"name": "Transition",
+				"id": "5e4de7cfa582cc616022d772",
+				"mode": "OUTPUT",
+				"systemChannelId": "5e4de7cea582cc427a22d771",
+				"systemId": "5e4d968b6b2e25107788a401"
+			}
+		],
+		"states": [
+			{
+				"id": "5e4e4473f17a465b578c7cdb",
+				"name": "Idle {{data.Color}}",
+				"description": "",
+				"sourceId": "ventuz://templates/background%7Cparticles/Animation/Settled",
+				"data": {
+					"ThemeColor": "Blue",
+					"BG": {
+						"Opacity": 100
+					},
+					"Particles": {
+						"Light_Yaw_Speed": 15,
+						"Light_Pitch_Speed": 0,
+						"Light_Gain": 1,
+						"Speed_Y": 0.100000001490116,
+						"Speed_X": 0.100000001490116,
+						"Overall_Blur": 0.5,
+						"Particle_Count": 250,
+						"Particle_Size": 1.5,
+						"Line_Opacity": 100,
+						"Overall_Particle_Opacity": 13.3999996185303
+					}
+				},
+				"bindings": []
+			},
+			{
+				"id": "5e4e4bb7fe182ee5da25aab9",
+				"name": "Wipe",
+				"description": "",
+				"sourceId": "ventuz://templates/wipe/Animation/In",
+				"data": {},
+				"bindings": []
+			},
+			{
+				"id": "5e4e4e27c94b3a5e45c2df69",
+				"name": "Wipe",
+				"description": "",
+				"sourceId": "ventuz://templates/wipe/Animation/In",
+				"data": {},
+				"bindings": []
+			},
+			{
+				"id": "5e4e50a2c94b3a5e45c2df6a",
+				"name": "Idle {{data.ThemeColor}}",
+				"description": "",
+				"sourceId": "ventuz://templates/background%7Cparticles/Animation/Settled",
+				"data": {
+					"ThemeColor": "Green",
+					"BG": {
+						"Opacity": 100
+					},
+					"Particles": {
+						"Light_Yaw_Speed": 15,
+						"Light_Pitch_Speed": 0,
+						"Light_Gain": 1,
+						"Speed_Y": 0.100000001490116,
+						"Speed_X": 0.100000001490116,
+						"Overall_Blur": 0.5,
+						"Particle_Count": 250,
+						"Particle_Size": 1.5,
+						"Line_Opacity": 100,
+						"Overall_Particle_Opacity": 13.3999996185303
+					}
+				},
+				"bindings": []
+			},
+			{
+				"id": "5e4e55b4c94b3a5e45c2df6b",
+				"name": "Ad 1",
+				"description": "",
+				"sourceId": "ventuz://templates/ad2/Animation/Settled",
+				"data": {
+					"Logo": {
+						"File": "ventuz://images/PhantomCola/cola-cap.png",
+						"Scale": 8,
+						"Rotation": {
+							"RotStopOverride": true,
+							"Duration": 10
+						}
+					},
+					"Title": {
+						"Text": "Tastes like nothing!",
+						"Color": "#ffffff",
+						"Scale": 1.5
+					}
+				},
+				"bindings": []
+			},
+			{
+				"id": "5e4e56fcc94b3a5e45c2df6c",
+				"name": "State 6",
+				"description": "",
+				"sourceId": "ventuz://templates/ad2/Animation/Settled",
+				"data": null,
+				"bindings": []
+			},
+			{
+				"id": "5e4e576fc94b3a5e45c2df6d",
+				"name": "Wipe Out",
+				"description": "",
+				"sourceId": "ventuz://templates/wipe/Animation/Out",
+				"data": {},
+				"bindings": []
+			},
+			{
+				"id": "5e4e577dc94b3a5e45c2df6e",
+				"name": "Wipe Out",
+				"description": "",
+				"sourceId": "ventuz://templates/wipe/Animation/Out",
+				"data": {},
+				"bindings": []
+			},
+			{
+				"id": "5e4e5839c94b3a5e45c2df70",
+				"name": "Idle",
+				"description": "",
+				"sourceId": "ventuz://templates/background%7Cparticles/Animation/Settled",
+				"data": {
+					"ThemeColor": "Red",
+					"BG": {
+						"Opacity": 100
+					},
+					"Particles": {
+						"Light_Yaw_Speed": 15,
+						"Light_Pitch_Speed": 0,
+						"Light_Gain": 1,
+						"Speed_Y": 0.100000001490116,
+						"Speed_X": 0.100000001490116,
+						"Overall_Blur": 0.5,
+						"Particle_Count": 250,
+						"Particle_Size": 1.5,
+						"Line_Opacity": 100,
+						"Overall_Particle_Opacity": 13.3999996185303
+					}
+				},
+				"bindings": []
+			},
+			{
+				"id": "5e4ec069114d1482d42b9df3",
+				"name": "State 10",
+				"description": "",
+				"sourceId": null,
+				"data": null,
+				"bindings": []
+			}
+		],
+		"drivers": [
+			{
+				"id": "5e4d96d26b2e25276988a412",
+				"startCueId": "5e4d96d26b2e25046588a40c"
+			}
+		],
+		"createdAt": "2020-02-19T20:13:06.563Z",
+		"updatedAt": "2020-02-20T17:22:49.293Z",
+		"deletedAt": null,
+		"version": 1
+	}
+]

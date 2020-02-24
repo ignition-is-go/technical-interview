@@ -1,7 +1,7 @@
 // tslint:disable: no-console
 import hash from 'object-hash'
 import * as R from 'ramda'
-import { allCodersWhoKnowTypescript, codersSortedByNetWorth, objectWithCountsOfNumberOfDevelopersWhoKnowEachLanguage, objectWithPeopleByCity } from './challenge'
+import { allCodersWhoKnowTypescript, codersSortedByNetWorth, objectWithCountsOfNumberOfDevelopersWhoKnowEachLanguage, objectWithPeopleByCity } from './challenge1'
 import { Person } from './types'
 
 const people = require('./data/people.json') as Person[]
